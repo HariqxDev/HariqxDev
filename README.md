@@ -1,6 +1,16 @@
 # 💫 About Me:
-🌱 I’m currently learning Software Engineering<br><br>🧑‍🎓 I’m an Undergraduate at JIAT<br><br>💬 Ask me about Web development<br><br>📫 How to reach me singlefighter2004@gmail.com<br><br>⚡ Fun fact I love exploring new technologies
+<table align="center">
+<tr border="none">
+<td width="50%" align="left">
+  
+- 💀 I’m currently learning **Coding**<br><br>- 🧑‍🎓 I’m an Undergraduate at **JIAT**<br><br>- 💬 Ask me about **Web development**<br><br>- 📫 How to catch me **singlefighter2004@gmail.com**<br><br>-  ⚡ You can **Call me, NotHariqx**
 
+</td>
+<td width="50%" align="center">
+  <img align="right" alt="coding" src="https://i.pinimg.com/originals/e6/da/c1/e6dac1038095d76596e8b1bd9653f569.gif" width="100%">
+</td>  
+</tr>
+</table>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Harindu-Damsika-Perera) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/singlefighter2004) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/nhariqx) 
